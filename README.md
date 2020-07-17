@@ -5,6 +5,7 @@ I'm a new graduate developer 👶. Now working [@RFCX](https://github.com/rfcx) 
 I'm most specialized on Android, Kotlin and Java but still need to learn much more on them.
 
 🌞 **Goals for 2020**
+
 More understaning on Android and start learning on hybrid application development (Flutter or React Native)
 
 <!--
