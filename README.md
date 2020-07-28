@@ -1,6 +1,6 @@
 Hi, stranger! 👋🐑
 
-I'm a new graduate developer 👶. Now working [@RFCx](https://github.com/rfcx) as Android developer.
+I'm a new graduate developer 👶. Now working [@RFCx](https://rfcx.org) as Android developer.
 
 I'm most specialized on Android, Kotlin and Java but still need to learn much more on them.
 
