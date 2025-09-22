@@ -1,8 +1,6 @@
 Hi, stranger! 👋🐑
 
-I'm a software engineer. Now working [@RFCx](https://rfcx.org) as Android developer.
-
-I'm most specialized on Android, Kotlin and Java but still need to learn much more on them.
+I'm a software engineer. Now working [@RFCx](https://rfcx.org).
 
 <!--
 **Tooseriuz/tooseriuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
