@@ -1,6 +1,6 @@
 Hi, stranger! 👋🐑
 
-I'm a software engineer. Now working [@RFCx](https://rfcx.org).
+I'm a software engineer.
 
 <!--
 **Tooseriuz/tooseriuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
